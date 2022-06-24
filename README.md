@@ -1,7 +1,7 @@
 ### Olá! sou Mauricio Silva👋
 ##
 
-- 🔭 Sou esudante de font e back-end
+- 🔭 Sou esudante de front e back-end
 - 🌱 Estudando JavaScript, React JS e Ruby on Rails
 - ♈  Pronouns: ele/dele
 <div align="center">
